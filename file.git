@@ -1,0 +1,33 @@
+DAY1 ===== WHY WE CAN USE GIT ?
+ISSUE CREATE IN THE COMPANY PROGRAM.....
+
+1- history
+2-storage
+3-coloboration
+4-data loss
+
+git - git is a local server
+
+github - github provide plateform t start code server hand.
+         virtual storage space.
+
+DAY 2 ====== CREATEING FILE AND ADD SOME TEXT
+ 
+ git init                     (for git start the commond)
+ touch <file name>            (to create file )
+ git log                      (viwe history)
+ vim <file name>               (for write code in text area)
+ i                              (Insert code in file)
+ (esc )  -> (:) -> (x)          (for exit file)
+
+DAY 3 ====== CREATE FOLDER & FILE BY THE BASH TERMINAL 
+
+mkdir <folder name>              (make-directory  then enter folder name)
+ls                               (to check how many files and folder in directory )
+cd <folder name>                  (cd= change directory to create folder in desktop)
+cd ..                             (back to privious directory)
+git add <file name>               (file is ADD in unstage to stage area)
+git add .                          (all the files are ADD in stage area)
+git status                          (to check the files is on stage area or not)
+git commit -m "remark"              (for commit file , you can do any remark name)
+
