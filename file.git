@@ -31,3 +31,6 @@ git add .                          (all the files are ADD in stage area)
 git status                          (to check the files is on stage area or not)
 git commit -m "remark"              (for commit file , you can do any remark name)
 
+git branch -M main                   (its for change the branch === main to master)
+fetch - means server per data send krna
+push - means server se data lena
